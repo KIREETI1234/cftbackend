@@ -4,9 +4,9 @@ env:
 
   variables:
 
-    AWS_REGION: "us-east-1"
+    AWS_REGION: "us-west-1"
 
-    ECR_REPO: "084828586975.dkr.ecr.us-east-1.amazonaws.com/employeeback"
+    ECR_REPO: "084828586975.dkr.ecr.us-west-1.amazonaws.com/employeeback"
 
     IMAGE_TAG: "latest"
  
